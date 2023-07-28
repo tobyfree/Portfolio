@@ -1,0 +1,25 @@
+#this basic algorithm reads a txt-file and checks if any of
+
+import_file = "ip_addresses.txt"
+
+with open(import_file, "r") as file:
+    ip_addresses = file.read()
+    
+ip_addresses = ip_addresses.split()
+
+
+banned_addresses = "banned_addresses.txt"
+
+with open(banned_addresses, "r") as file:
+    banned_addresses = file.read
+
+banned_addresses = banned_addresses.split()
+
+for element in banned_addresse:
+    if element in ip_addresses:
+        ip_addresses.remove(element)
+
+ip_addresses = "\n".join(ip_addresses)
+
+with open(import_file, "w") as file:
+    file.write(ip_addresses)
