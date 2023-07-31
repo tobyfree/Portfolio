@@ -10,5 +10,22 @@ Task: Begin by making a list of all the additional equipment needed to expand Sa
 
 Answer: 
 
-1. The already bought mobile devices
+1. The already bought 2 mobile devices
 2. Wireless Router for network connectivity for the mobile devices
+3. Physical connection between Wireless Router and Switch
+
+# Step 2: Construct a diagram
+
+Task: Once you’ve identified the equipment needs, it’s time to demonstrate how everything works together. Using a mind-mapping tool (or pen and paper if you prefer), expand the network topology from the exercise in Week 1, Lesson 2.
+
+Answer:
+![Star Topology with WIFI](https://github.com/tobyfree/Portfolio/blob/main/Use-Cases/Figures/star%20topology%20example%20-%20wifi.png)
+
+# Step 3: Identity and list protocols 
+
+Task: With the expanded network topology in place, identify and list the two protocols that support the network at the network access layer of the TCP/IP suite to improve communication between employees.
+
+Answer:
+
+1. Wifi for the mobile devices
+2. Ethernet for the cable-connected computers
