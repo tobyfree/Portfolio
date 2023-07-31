@@ -17,4 +17,3 @@ Task: Taking all the devices you have identified, you may have constructed a phy
 Answer: 
 ![Star topology](https://github.com/tobyfree/Portfolio/blob/main/Use-Cases/star%20topology%20example.png)
 
-
