@@ -15,5 +15,5 @@ Answer:
 Task: Taking all the devices you have identified, you may have constructed a physical network diagram similar to the one below. This diagram includes the network switch, two laptops, and one printer. This setup is sufficient for Sam’s current business needs. 
 
 Answer: 
-![Star topology](https://github.com/tobyfree/Portfolio/blob/main/Use-Cases/star%20topology%20example.png)
+![Star topology](https://github.com/tobyfree/Portfolio/blob/main/Use-Cases/Figures/star%20topology%20example.png)
 
