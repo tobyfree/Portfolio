@@ -39,3 +39,16 @@ Ensure that the recommended measures are justified and supported by the potentia
 
 # Answer:
 
+- Security policies:
+  - Password policy: Current research showed the performance of long passwords is higher than the one of shorter, but more complex passwords. Therefore, I would recommend the follwing policy: min. length of 16, at least 2 character classes, no words from dictionaries of the list of most common passwords to ensure unique, safe, and memorable passwords.
+  - Backup and Recovery: The 3-2-1 methods is recommendable with having 3 copies of important data, storing them at at least 2 different locations with 1 of them being off-premise like in a cloud. Backups should be performed daily.
+  - Access controls: Role-based access control is recommended to ensure that all employees can only access the data needed for their work, implementing a "need-to-know"-strategy.
+ 
+- Infrastructure:
+  - Operating systems: All OS must be at least supported and provided with regular security updates. If an OS is no longer supported, it needs to be replaced by a newer version
+  - Firewall configuration: The firewall configurations need to be up to date, with at least the current set of recommended rules in place.
+  - Authentication methods: Access controls: MFA, with at least 2 different components like knowledge, inheritance or ownership, is necessary to protect against the simplest kinds of online attacks.
+ 
+- Physical machines:
+  - All physical machines need to be secured, being inaccessible for unauthorized people. This includes locks on private rooms, securing the cash register, locking all devices when not used and putting authentication methods like passcodes or key cards for every device or door to protect against theft or unauthorized access.
+  - Remote access needs to be implemented referring to state-of-the-art access control via cloud services, remote-desktop solutions or VPN.
